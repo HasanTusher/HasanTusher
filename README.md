@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanTusher
 - 👀 I’m interested in "Something no one has before"
-- 🌱 I’m currently learning "Apache Flink"
+- 🌱 I’m currently learning "Machine Learning, Apache Flink"
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me "https://www.linkedin.com/in/md-mehedi-hasan-128459189/"
 
